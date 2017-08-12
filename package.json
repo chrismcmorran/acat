@@ -1,0 +1,11 @@
+{
+  "name": "acat",
+  "version": "1.0.0",
+  "description": "Asynchronous cat utility.",
+  "main": "acat.js",
+  "author": "Christopher McMorran",
+  "license": "MIT",
+  "bin": {
+    "acat" : "acat.js"
+  }
+}
